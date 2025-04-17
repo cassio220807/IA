@@ -31,12 +31,27 @@ h1{
   text-align: left;
 
 }
-.barr{
-  height: 2px;
-  background-color: black;
+.barr {
+  display: flex;
+  align-items: center;
+  text-align: center;
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
+.barr::before,
+.barr::after {
+  content: '';
+  flex: 1;
+  height: 2px;
+  background-color: black;
+}
+
+.barr h1 {
+  margin: 0 15px;
+  font-size: 18px; /* ajusta como quiser */
+}
+
 body{
   margin-bottom: 50px;
   margin-top: 20px;

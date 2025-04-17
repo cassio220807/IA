@@ -1,52 +1,177 @@
-A linguagem de programação é um conjunto de regras e sintaxes que permite aos programadores comunicar-se com os computadores e criar software. Assim como as línguas faladas possuem gramática e vocabulário, as linguagens de programação possuem uma sintaxe específica, que define como os comandos e instruções devem ser escritos. Essas linguagens possibilitam que os programadores escrevam códigos que o computador possa entender e executar para realizar tarefas específicas, como resolver problemas, controlar sistemas ou desenvolver aplicativos.
+🧠 Artificial Intelligence in Modern Systems
+Artificial Intelligence (AI) has become a crucial part of modern systems. It is used in many areas such as healthcare, transportation, education, and customer service. AI helps computers and machines learn from experience and make decisions like humans. For example, AI can detect diseases earlier than doctors by analyzing large amounts of medical data.
+In the past, systems were simple and could only follow direct instructions. They were not able to learn or adapt. But now, with AI, machines have improved significantly. While people were using traditional programs, researchers were developing smarter algorithms that could learn from patterns.
 
-Existem diversos tipos de linguagens de programação, e cada uma delas é mais adequada a diferentes tipos de projetos. Linguagens como Python, JavaScript e Java são amplamente utilizadas em várias áreas da tecnologia, incluindo desenvolvimento web, análise de dados, inteligência artificial e aplicativos móveis. Cada linguagem tem suas próprias características e níveis de abstração, o que influencia sua facilidade de uso, desempenho e a complexidade do código gerado.
+Many companies have adopted AI technologies in recent years. AI has changed the way we work, communicate, and even shop online. Some companies have already created virtual assistants that respond to customer questions 24/7.
+However, there are also challenges. Some people worry about job loss and data privacy. Still, AI has offered many benefits and continues to grow every year.
 
-A principal função de uma linguagem de programação é possibilitar a tradução das intenções do programador em algo que o computador possa processar. O processo de escrever esse código envolve o uso de comandos, estruturas de controle (como loops e condicionais) e funções, permitindo que o programa realize uma sequência de ações. Além disso, as linguagens podem ser divididas em diferentes paradigmas, como linguagens orientadas a objetos, funcionais ou imperativas, cada uma com seu estilo de abordagem para a solução de problemas.
+⏱️ Apresentação dos Tempos Verbais
+To Be no Simple Past:
 
-Em resumo, as linguagens de programação são ferramentas essenciais para o desenvolvimento de sistemas e aplicativos modernos. Elas permitem que os programadores criem soluções complexas de forma estruturada e eficiente, utilizando uma comunicação precisa com as máquinas. Com o avanço da tecnologia, novas linguagens surgem constantemente, oferecendo novas possibilidades e recursos para os desenvolvedores e moldando o futuro da computação.
+Was / Were
 
+Afirmativa: I was, You were
 
+Negativa: I wasn’t, You weren’t
 
+Interrogativa: Was I?, Were you?
 
+Past Continuous:
 
+Was/Were + verbo com -ing
 
-1. O que é uma linguagem de programação?
-a) Uma ferramenta que permite que os computadores se comuniquem com os seres humanos.
-b) Um conjunto de comandos e regras que permite a comunicação entre programadores e computadores.
-c) Um sistema operacional usado para executar programas.
-d) Um banco de dados utilizado para armazenar código-fonte.
+Afirmativa: She was learni
 
-Resposta correta: b)
+Negativa: She wasn’t learning
 
-2. Qual das seguintes linguagens de programação é comumente usada para desenvolvimento web?
-a) Python
-b) C
-c) JavaScript
-d) Assembly
+Interrogativa: Was she learning?
 
-Resposta correta: c)
+Simple Past:
 
-3. O que é um "loop" em programação?
-a) Uma função que organiza os dados em uma estrutura hierárquica.
-b) Uma estrutura de controle que repete um bloco de código várias vezes até que uma condição seja atendida.
-c) Uma linguagem de programação usada para criar gráficos.
-d) Um erro no código que faz o programa travar.
+Verbo regular + ed / Verbo irregular
 
-Resposta correta: b)
+Afirmativa: They used AI
 
-4. O que significa "orientação a objetos" em linguagens de programação?
-a) O foco do programa é na execução de cálculos matemáticos.
-b) O programa é estruturado em funções independentes.
-c) O programa é baseado em "objetos", que representam dados e as operações que podem ser realizadas sobre esses dados.
-d) O código é escrito em uma única linha, sem estrutura de blocos.
+Negativa: They didn’t use AI
 
-Resposta correta: c)
+Interrogativa: Did they use AI?
 
-5. Qual das opções a seguir não é um exemplo de linguagem de programação?
-a) Java
-b) Python
-c) SQL
-d) HTML
+Present Perfect:
 
-Resposta correta: d)
+Have/Has + past participle
+
+Afirmativa: She has worked with AI
+
+Negativa: She hasn’t worked with AI
+
+Interrogativa: Has she worked with AI?
+
+📖 Compreensão Textual (Reading Activities)
+A. Skimming – Compreensão geral
+Escolha a ideia principal do texto:
+a) O impacto da inteligência artificial na arte.
+b) A história da computação.
+c) A importância da inteligência artificial nos sistemas modernos. ✅
+
+B. Scanning – Respostas específicas
+
+Em quais áreas a IA é utilizada?
+a) Agricultura e moda
+b) Saúde, transporte, educação e atendimento ao cliente ✅
+c) Apenas em robótica
+d) Esportes e turismo
+
+O que a IA pode fazer melhor do que alguns médicos?
+a) Realizar cirurgias complexas
+b) Detectar doenças mais cedo ✅
+c) Prescrever medicamentos com mais precisão
+d) Fazer diagnósticos sem erros
+
+O que as empresas criaram com o uso da IA?
+a) Robôs domésticos
+b) Assistentes virtuais ✅
+c) Aplicativos de jogos
+d) Softwares para design gráfico
+
+C. Verdadeiro ou Falso
+Marque a alternativa correta:
+
+( ) A IA tornou os sistemas mais difíceis de usar.
+
+( ) A IA é usada em diferentes áreas. ✅
+
+( ) Algumas empresas têm assistentes virtuais. ✅
+
+( ) A IA parou de se desenvolver.
+
+📝 Atividades com Tempos Verbais
+1. To Be no Simple Past (was/were)
+Complete as frases:
+
+a) In the past, systems _ very simple.
+a) was
+b) were ✅
+c) is
+d) be
+
+b) They _ able to learn from experience.
+a) were
+b) was not
+c) were not / weren’t ✅
+d) are
+
+c) Transforme em pergunta:
+The machines were smart. → _ the machines smart?
+a) Was
+b) Is
+c) Were ✅
+d) Do
+
+2. Past Continuous
+
+Associe corretamente:
+
+1-People were using
+
+2-Researchers were developing
+
+a) smarter algorithms
+b) traditional programs
+
+a) 1 → b | 2 → a ✅
+b) 1 → a | 2 → b
+c) 1 → a | 2 → a
+d) 1 → b | 2 → b
+
+Complete a frase:
+While AI was improving, companies _ new systems.
+a) adopt
+b) were adopt
+c) were adopting ✅
+d) adopting				
+
+3. Simple Past
+
+Corrija o erro:
+AI help computers in the past.
+a) AI helped computers in the past. ✅
+b) AI helping computers in the past.
+c) AI helps computers in the past.
+d) AI was help computers in the past.
+
+Pergunta sobre o texto:
+What did AI improve?
+a) It created new jobs.
+b) It learned new languages.
+c) It improved decision-making in machines. ✅
+d) It replaced all human workers.
+
+4. Present Perfect
+
+Complete com have/has + past participle:
+
+a) Many companies _ AI technologies.
+a) has adopt
+b) have adopts
+c) have adopted ✅
+d) has adopted
+
+b) AI _ the way we work.
+a) have change
+b) have changed
+c) has changed ✅
+d) changed
+
+Use "ever" para perguntas:
+
+c) _ you ever used a virtual assistant?
+a) Have ✅
+b) Did
+c) Do
+d) Are
+
+d) _ she ever worked with AI software?
+a) Do
+b) Did
+c) Has ✅
+d) Is

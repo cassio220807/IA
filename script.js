@@ -1,10 +1,20 @@
 const respostasCorretas = {
-    A1: true,
-    B1: true,
+    A3: true,
+    B2: true,
     C2: true,
     D2: true,
-    E3: true,
-    F2: true
+    E4: true,
+    F2: true,
+    G3: true,
+    H3: true,
+    I1: true,
+    J3: true,
+    k1: true,
+    L3: true,
+    M3: true,
+    N3: true,
+    O1: true,
+    p3: true
   };
   
   const perguntas = document.querySelectorAll('.pr3');
