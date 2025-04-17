@@ -39,6 +39,7 @@ const respostasCorretas = {
     if (selecionados.length !== perguntas.length) {
       resultadoDiv.style.color = 'rgb(170, 4, 4)';
       resultadoDiv.innerHTML = 'Responda todas as perguntas antes de enviar.';
+      
       return;
     }
   
@@ -66,3 +67,4 @@ const respostasCorretas = {
       resultadoDiv.innerHTML += '<br>Continue praticando! 💪';
     }
   });
+

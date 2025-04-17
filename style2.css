@@ -11,8 +11,10 @@
 .enviar{
     border-style: none;
     background-color: rgb(123, 128, 129);
-    padding: 5px;
+    padding: 10px 50px;
     border-radius: 5px;
+    width: auto;
+    max-width: 200px;
 }
 .enviar:hover{
     background-color: rgb(78, 80, 80);
@@ -29,6 +31,24 @@
     max-width: 300px;
     text-align: center;
 }
+html {
+    scroll-behavior:unset;
+  }
+.botao-topo{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+
+}
+.botao-topo:hover{
+    color: blue;
+}
+.botao-topo:active{
+    color: black;
+}
+.texto2{
+    text-align: center;
+}
 
 @media (max-width: 730px){
     .pergunta{
@@ -43,4 +63,8 @@
     .resposta{
         font-size: 10px;
     }
+    .barr h1{
+        font-size: 12px;
+    }
+   
 }
