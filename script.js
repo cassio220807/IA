@@ -9,12 +9,12 @@ const respostasCorretas = {
     H3: true,
     I1: true,
     J3: true,
-    k1: true,
+    K1: true,
     L3: true,
     M3: true,
     N3: true,
     O1: true,
-    p3: true
+    P3: true
   };
   
   const perguntas = document.querySelectorAll('.pr3');
