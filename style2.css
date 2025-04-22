@@ -46,11 +46,37 @@ html {
 .botao-topo:active{
     color: black;
 }
-.texto2{
+.seta1{
+    position: fixed;
+    bottom: 20px; /* distância do fundo */
+    right: 20px;  /* distância da direita */
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+    width: auto;
+    max-width: 100px;
+    height: auto;
+    max-height: 150px;
+    background-color:rgb(109, 109, 109);
     text-align: center;
+    border-radius: 8px;
+    margin:auto;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    border-style: none;
+}
+.seta1 h1{
+    color: black;
+    font-size: 90px;
 }
 
 @media (max-width: 730px){
+    .seta1{
+        padding: 0px 30px;
+    }
+    .seta1 h1{
+    font-size: 60px;
+        
+    }
     .pergunta{
         font-size: 10px;
     }
@@ -66,5 +92,5 @@ html {
     .barr h1{
         font-size: 12px;
     }
-   
+    
 }

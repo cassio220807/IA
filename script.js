@@ -68,3 +68,7 @@ const respostasCorretas = {
     }
   });
 
+
+    function irParaTopo() {
+      document.getElementById("topo").scrollIntoView({ behavior: "smooth" });
+    }
