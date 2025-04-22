@@ -50,11 +50,10 @@ html {
     position: fixed;
     bottom: 20px; /* distância do fundo */
     right: 20px;  /* distância da direita */
-    padding-left: 30px;
-    padding-right: 30px;
+    padding:30px 30px;
     cursor: pointer;
     width: auto;
-    max-width: 100px;
+    max-width: 150px;
     height: auto;
     max-height: 150px;
     background-color:rgb(109, 109, 109);
@@ -66,15 +65,15 @@ html {
 }
 .seta1 h1{
     color: black;
-    font-size: 90px;
+    font-size: 30px;
 }
 
 @media (max-width: 730px){
     .seta1{
-        padding: 0px 30px;
+        padding:20px 15px;
     }
     .seta1 h1{
-    font-size: 60px;
+    font-size: 20px;
         
     }
     .pergunta{
